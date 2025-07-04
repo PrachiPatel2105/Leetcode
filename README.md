@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PrachiPatel2105/Leetcode/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/PrachiPatel2105/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrachiPatel2105/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PrachiPatel2105/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
