@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrachiPatel2105/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/PrachiPatel2105/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/PrachiPatel2105/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PrachiPatel2105/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/PrachiPatel2105/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3460-count-the-number-of-inversions](https://github.com/PrachiPatel2105/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 ## Binary Search
 |  |
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrachiPatel2105/Leetcode/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
