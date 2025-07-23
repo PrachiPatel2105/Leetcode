@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/PrachiPatel2105/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/PrachiPatel2105/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrachiPatel2105/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/PrachiPatel2105/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
