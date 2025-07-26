@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PrachiPatel2105/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/PrachiPatel2105/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PrachiPatel2105/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/PrachiPatel2105/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/PrachiPatel2105/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PrachiPatel2105/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PrachiPatel2105/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PrachiPatel2105/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PrachiPatel2105/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrachiPatel2105/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/PrachiPatel2105/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrachiPatel2105/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/PrachiPatel2105/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/PrachiPatel2105/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
