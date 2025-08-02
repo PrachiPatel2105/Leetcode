@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PrachiPatel2105/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrachiPatel2105/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3460-count-the-number-of-inversions](https://github.com/PrachiPatel2105/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PrachiPatel2105/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
+| [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 ## String
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrachiPatel2105/Leetcode/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
