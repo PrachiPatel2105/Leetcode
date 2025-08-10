@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PrachiPatel2105/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/PrachiPatel2105/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
+| [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PrachiPatel2105/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 ## String
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
+| [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrachiPatel2105/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Quickselect
 |  |
 | ------- |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
