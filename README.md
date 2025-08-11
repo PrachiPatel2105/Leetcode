@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/PrachiPatel2105/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrachiPatel2105/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrachiPatel2105/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/PrachiPatel2105/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/PrachiPatel2105/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3460-count-the-number-of-inversions](https://github.com/PrachiPatel2105/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PrachiPatel2105/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PrachiPatel2105/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrachiPatel2105/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/PrachiPatel2105/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/PrachiPatel2105/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Breadth-First Search
 |  |
 | ------- |
