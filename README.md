@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PrachiPatel2105/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PrachiPatel2105/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
 | [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PrachiPatel2105/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PrachiPatel2105/Leetcode/tree/master/0326-power-of-three) |
 ## Bucket Sort
 |  |
 | ------- |
