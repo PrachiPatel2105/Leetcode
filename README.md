@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PrachiPatel2105/Leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/PrachiPatel2105/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Breadth-First Search
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrachiPatel2105/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrachiPatel2105/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
 | [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PrachiPatel2105/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrachiPatel2105/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrachiPatel2105/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrachiPatel2105/Leetcode/tree/master/0342-power-of-four) |
 ## Bucket Sort
 |  |
 | ------- |
