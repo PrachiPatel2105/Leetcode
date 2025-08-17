@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrachiPatel2105/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/PrachiPatel2105/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/PrachiPatel2105/Leetcode/tree/master/0567-permutation-in-string) |
+| [0867-new-21-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/PrachiPatel2105/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrachiPatel2105/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Matrix
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PrachiPatel2105/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PrachiPatel2105/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrachiPatel2105/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0867-new-21-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/PrachiPatel2105/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3460-count-the-number-of-inversions](https://github.com/PrachiPatel2105/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PrachiPatel2105/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PrachiPatel2105/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrachiPatel2105/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
+| [0867-new-21-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrachiPatel2105/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
