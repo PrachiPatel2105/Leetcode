@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/PrachiPatel2105/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/PrachiPatel2105/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrachiPatel2105/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrachiPatel2105/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PrachiPatel2105/Leetcode/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0679-24-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PrachiPatel2105/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrachiPatel2105/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
+| [0679-24-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PrachiPatel2105/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrachiPatel2105/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
