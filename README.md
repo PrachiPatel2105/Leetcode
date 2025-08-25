@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrachiPatel2105/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrachiPatel2105/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/PrachiPatel2105/Leetcode/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/PrachiPatel2105/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/PrachiPatel2105/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/PrachiPatel2105/Leetcode/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/PrachiPatel2105/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PrachiPatel2105/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/PrachiPatel2105/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrachiPatel2105/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/PrachiPatel2105/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrachiPatel2105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PrachiPatel2105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PrachiPatel2105/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrachiPatel2105/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/PrachiPatel2105/Leetcode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/PrachiPatel2105/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PrachiPatel2105/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
