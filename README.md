@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrachiPatel2105/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrachiPatel2105/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrachiPatel2105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PrachiPatel2105/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrachiPatel2105/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PrachiPatel2105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/PrachiPatel2105/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrachiPatel2105/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/PrachiPatel2105/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrachiPatel2105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PrachiPatel2105/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PrachiPatel2105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PrachiPatel2105/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PrachiPatel2105/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
